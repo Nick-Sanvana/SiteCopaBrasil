@@ -1,9 +1,8 @@
---css
--style.css
-Aqui esta todos os codigos de estilização do html. Ele é essencial para a página.
+index.html
+É o codigo principal do site, é nele em que ocorre as definições do site etc.
 
---img
-Esta pasta esta todas as imagens usadas para a pagina inicial do site.
+img
+Uma pasta contendo todas as imagens utilizadas no codigo
 
---index.html
-Isso é o site inteiro basicamente, sem isso nada funciona.
+style.css
+Codigos que estilizam o html.É como visual do site vai ficar
